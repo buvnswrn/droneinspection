@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)](LICENSE.md)
 ![Unity](https://img.shields.io/badge/unity-2020.3+-brightgreen)
 
-This project was created as part of a Seminar - SupRTwin: Sensing, Understanding, and Provisioning of Robotic Digital Twins from Universitat Des Saarlandes
+This project was created as part of a Seminar - SupRTwin: Sensing, Understanding, and Provisioning of Robotic Digital Twins from Universität des Saarlandes. The objective of the project is to create a Digital Twin of objects that are detected during an inspection flight conducted by a drone. The Digital twins of the objects and the drone are represented in a realtime simulation environment in Unity Game Engine.
 
 Original Repository: https://mrk40.dfki.de/drone-inspection-seminar/droneinspection
 
