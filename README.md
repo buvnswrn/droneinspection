@@ -30,7 +30,7 @@ The drone can be monitored live and inputs such as waypoints and certain command
 ### Drone Inspection Service API
 - The project involves creation of two main services - Inspection Flight and Object Detection. They are created using [Flask-RestX](https://flask-restx.readthedocs.io/en/latest/).
 
-![Drone Inspection API](Documentation/imgs/drone-inspection-api.png)
+![Drone Inspection API](Documentation/imgs/drone-inspection-api.PNG)
 ### Drone Object Detection
 - We use custom trained [YoloV5](https://github.com/ultralytics/yolov5) model to detect the objects
 
@@ -58,6 +58,12 @@ The drone can be monitored live and inputs such as waypoints and certain command
 ![SiMRK](Documentation/imgs/simrk.PNG)
 
 ### Tech Stack : 
+[//]: # (![Basys]&#40;https://www.ifak.eu/sites/default/files/BaSys4_2.png&#41;)
+<img src="https://www.ifak.eu/sites/default/files/BaSys4_2.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="80" height="20" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Apache_Avro_Logo.svg/1200px-Apache_Avro_Logo.svg.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="80" height="20" />
+<img src="https://flask-restx.readthedocs.io/en/latest/_static/logo-512.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="30" height="30" />
+<img src="https://www3.djicdn.com/assets/images/products/djigo/logo-dfaa71b74b5b3c388c586d3155b2855e.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="30" height="30" />
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
@@ -69,8 +75,3 @@ The drone can be monitored live and inputs such as waypoints and certain command
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-[//]: # (![Basys]&#40;https://www.ifak.eu/sites/default/files/BaSys4_2.png&#41;)
-<img src="https://www.ifak.eu/sites/default/files/BaSys4_2.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="90" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Apache_Avro_Logo.svg/1200px-Apache_Avro_Logo.svg.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="90" height="50" />
-<img src="https://www3.djicdn.com/assets/images/products/djigo/logo-dfaa71b74b5b3c388c586d3155b2855e.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" />
-<img src="https://flask-restx.readthedocs.io/en/latest/_static/logo-512.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="" />
