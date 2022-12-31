@@ -15,6 +15,10 @@ This repository contains the presentation files used for the final seminar prese
 The end to end flow looks like:
 
 ![End-To-End Flow](Documentation/imgs/end-to-end-flow.PNG)
+Have a look at the working Demo here:
+
+[![Watch the Demo here](https://img.youtube.com/vi/lHDcypc_lmY/0.jpg)](https://youtu.be/lHDcypc_lmY)
+## Component and Explanation
 ### MQTT Drone API
 The drone uses [MQTT Protocol](https://mqtt.org/) to communicate. In short, the following topics are of our interest 
 - Mavic2/state/pose - Pose information obtained from markers of drone using a Motion Capture system (OptiTrack system) and published to MQTT through [Motive App](https://optitrack.com/software/motive/)
